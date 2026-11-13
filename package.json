@@ -13,6 +13,7 @@
   "dependencies": {
     "@axe-core/playwright": "^4.13.0",
     "@faker-js/faker": "^10.6.0",
+    "@openrouter/sdk": "^1.5.33",
     "ajv": "^8.20.0",
     "allure-playwright": "^3.13.0",
     "csv-parse": "^7.0.3",
